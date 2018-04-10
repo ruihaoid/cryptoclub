@@ -14,6 +14,6 @@
   ],
   "projects": [
     {"title":"CoinMarketCap", "link":"/coinmarketcap"},
-    {"title":"Cryptocurrency Calendar", "link":"/coinmarketcal"}
+    {"title":"CryptoCalendar", "link":"/coinmarketcal"}
   ]
 }
