@@ -9,7 +9,7 @@
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "paw", "link": "/corgi"},
+    {"icon": "social-youtube", "link": "/youtube"},
     {"icon": "social-reddit", "link": "https://www.reddit.com/r/btc/"}
   ],
   "projects": [
