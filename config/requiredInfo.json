@@ -1,0 +1,19 @@
+{
+  "siteTitle": "Crypto Club",
+  "siteDescription": "Your place for cryptocurrency news",
+  "avatar": "/img/avatar.png",
+  "background": "/img/background.jpg",
+  "description": "The future of money is digital currency. - Bill Gates",
+  "resume": "https://bitcoin.org/bitcoin.pdf",
+  "icons": [
+    {"icon": "page", "link": "/resume"},
+    {"icon": "social-github", "link": "/github"},
+    {"icon": "social-twitter", "link": "/twitter"},
+    {"icon": "paw", "link": "/corgi"},
+    {"icon": "social-reddit", "link": "https://www.reddit.com/r/btc/"}
+  ],
+  "projects": [
+    {"title":"CoinMarketCap", "link":"/coinmarketcap"},
+    {"title":"Cryptocurrency Calender", "link":"/coinmarketcal"}
+  ]
+}
