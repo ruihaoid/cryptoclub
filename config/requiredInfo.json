@@ -4,7 +4,7 @@
   "avatar": "/img/avatar.png",
   "background": "/img/background.jpg",
   "description": "The future of money is digital currency. - Bill Gates",
-  "whitepaperFile": "https://bitcoin.org/bitcoin.pdf",
+  "whitepaper": "https://bitcoin.org/bitcoin.pdf",
   "icons": [
     {"icon": "page", "link": "/whitepaper"},
     {"icon": "social-github", "link": "/github"},
