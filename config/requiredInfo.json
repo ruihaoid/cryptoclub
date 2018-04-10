@@ -9,11 +9,11 @@
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "social-youtube", "link": "/youtube"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/btc/"}
+    {"icon": "social-reddit", "link": "https://www.reddit.com/r/btc/"},
+    {"icon": "social-youtube", "link": "/youtube"}
   ],
   "projects": [
-    {"title":"Market Capitalization", "link":"/coinmarketcap"},
+    {"title":"CoinMarketCap", "link":"/coinmarketcap"},
     {"title":"Cryptocurrency Calendar", "link":"/coinmarketcal"}
   ]
 }
