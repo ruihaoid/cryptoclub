@@ -10,10 +10,11 @@
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"},
     {"icon": "paw", "link": "/corgi"},
+    {"icon": "social-youtube", "link", "/youtube"},
     {"icon": "social-reddit", "link": "https://www.reddit.com/r/btc/"}
   ],
   "projects": [
-    {"title":"CoinMarketCap", "link":"/coinmarketcap"},
-    {"title":"Cryptocurrency Calender", "link":"/coinmarketcal"}
+    {"title":"Market Capitalization", "link":"/coinmarketcap"},
+    {"title":"Cryptocurrency Calendar", "link":"/coinmarketcal"}
   ]
 }
