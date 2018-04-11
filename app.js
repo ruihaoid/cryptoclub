@@ -29,7 +29,7 @@ app.get('/', function(request, response) {
 });
 
 app.get('/whitepaper', function(request, response) {
-    response.render('resume', requiredInfo);
+    response.render('whitepaper', requiredInfo);
 });
 
 app.get('/avatar', function(request, response) {
