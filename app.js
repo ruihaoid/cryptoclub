@@ -28,7 +28,7 @@ app.get('/', function(request, response) {
     response.render('index', requiredInfo);
 });
 
-app.get('/resume', function(request, response) {
+app.get('/whitepaper', function(request, response) {
     response.render('resume', requiredInfo);
 });
 
