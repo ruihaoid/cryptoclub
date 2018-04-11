@@ -13,10 +13,10 @@ describe('GET /', function() {
     });
 });
 
-describe('GET /resume', function() {
+describe('GET /whitepaper', function() {
     it('should return 200 OK', function(done) {
         request(app)
-            .get('/resume')
+            .get('/whitepaper')
             .expect(200, done);
     });
 });
