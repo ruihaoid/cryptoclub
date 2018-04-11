@@ -4,9 +4,9 @@
   "avatar": "/img/avatar.png",
   "background": "/img/background.jpg",
   "description": "Bitcoin is a remarkable cryptographic achievement and the ability to create something that is not duplicable in the digital world has enormous value - Eric Schmidt, CEO of Google",
-  "resumeFile": "https://bitcoin.org/bitcoin.pdf",
+  "whitepaperFile": "https://bitcoin.org/bitcoin.pdf",
   "icons": [
-    {"icon": "page", "link": "/resume"},
+    {"icon": "page", "link": "/whitepaper"},
     {"icon": "social-github", "link": "/github"},
     {"icon": "social-twitter", "link": "/twitter"},
     {"icon": "social-reddit", "link": "https://www.reddit.com/r/btc/"},
